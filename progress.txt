@@ -1,3 +1,2 @@
 Git basics completed.
-
-updating and revert back 
+revert back
