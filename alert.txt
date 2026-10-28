@@ -1,2 +1,2 @@
 Device alert: offline
-changing the code 
+not changing the code
